@@ -1,0 +1,106 @@
+﻿  Button.cpp
+  Drawable.cpp
+E:\source\repos\sfml\sfml\Drawable.cpp(15,42): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\Drawable.cpp(15,34): warning C4244: "argument": konwersja z "T" do "unsigned int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Listener.cpp
+  MainMenu.cpp
+E:\source\repos\sfml\sfml\MainMenu.cpp(11,28): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+E:\source\repos\sfml\sfml\MainMenu.cpp(15,6): warning C4244: "=": konwersja z "double" do "short", możliwa utrata danych
+E:\source\repos\sfml\sfml\MainMenu.cpp(19,29): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+E:\source\repos\sfml\sfml\MainMenu.cpp(23,6): warning C4244: "=": konwersja z "double" do "short", możliwa utrata danych
+  MainWindow.cpp
+E:\source\repos\sfml\sfml\MainWindow.cpp(13,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+Z:\Visual\VC\Tools\MSVC\14.29.30133\include\xutility(149,77): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+Z:\Visual\VC\Tools\MSVC\14.29.30133\include\memory(2006): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Construct_in_place<_Ty,int&,int&,int&,int&,sf::Color>(_Ty &,int &,int &,int &,int &,sf::Color &&) noexcept(false)” funkcji szablon
+          with
+          [
+              _Ty=SquareMaze
+          ]
+Z:\Visual\VC\Tools\MSVC\14.29.30133\include\memory(2725): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int&,int&,int&,int&,sf::Color>(int &,int &,int &,int &,sf::Color &&)” funkcji szablon
+          with
+          [
+              _Ty=SquareMaze
+          ]
+Z:\Visual\VC\Tools\MSVC\14.29.30133\include\memory(2726): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int&,int&,int&,int&,sf::Color>(int &,int &,int &,int &,sf::Color &&)” funkcji szablon
+          with
+          [
+              _Ty=SquareMaze
+          ]
+E:\source\repos\sfml\sfml\MainWindow.cpp(18): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::shared_ptr<SquareMaze> std::make_shared<SquareMaze,int&,int&,int&,int&,sf::Color>(int &,int &,int &,int &,sf::Color &&)” funkcji szablon
+  Maze.cpp
+E:\source\repos\sfml\sfml\Maze.cpp(29,54): warning C4244: "=": konwersja z "float" do "unsigned short", możliwa utrata danych
+E:\source\repos\sfml\sfml\Maze.cpp(30,54): warning C4244: "=": konwersja z "float" do "unsigned short", możliwa utrata danych
+  sfml.cpp
+E:\source\repos\sfml\sfml\tile.h(29,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(29,29): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(46,23): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(46,20): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(88,43): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(89,38): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(89,24): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(95,43): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(96,38): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(96,24): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(102,31): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(103,27): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(103,22): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(109,31): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(110,27): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(110,22): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\labyrinth.h(135,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(146,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(161,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(181,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(215,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\source\repos\sfml\sfml\labyrinth.h(262,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(276,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\sfml.cpp(9,54): warning C4309: "argument": obcięcie stałej wartości
+  Slider.cpp
+E:\source\repos\sfml\sfml\Slider.cpp(13,20): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\Slider.cpp(76,38): warning C4244: "=": konwersja z "T" do "unsigned short", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  TextLabel.cpp
+  Window.cpp
+E:\source\repos\sfml\sfml\Window.cpp(17,53): warning C4244: "argument": konwersja z "unsigned short" do "sf::Uint8", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 983 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  sfml.vcxproj -> E:\source\repos\sfml\Release\sfml.exe
+  E:\source\repos\sfml\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\Win32\Release\openal32.dll
+  1 File(s) copied

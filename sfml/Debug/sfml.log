@@ -1,0 +1,51 @@
+﻿  sfml.cpp
+E:\source\repos\sfml\sfml\tile.h(29,41): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(29,29): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(46,23): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(46,20): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(88,43): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(89,38): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(89,24): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(95,43): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(96,38): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(96,24): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(102,31): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(103,27): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(103,22): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(109,31): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+E:\source\repos\sfml\sfml\tile.h(110,27): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\tile.h(110,22): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+E:\source\repos\sfml\sfml\labyrinth.h(135,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(146,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(161,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(181,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(215,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\source\repos\sfml\sfml\labyrinth.h(262,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\source\repos\sfml\sfml\labyrinth.h(276,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  sfml.vcxproj -> E:\source\repos\sfml\Debug\sfml.exe
+  E:\source\repos\sfml\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\Win32\Debug\openal32.dll
+  1 File(s) copied
